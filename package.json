@@ -1,0 +1,8 @@
+{
+  "name": "tyasi-ebay-deletion-webhook",
+  "version": "1.0.0",
+  "description": "eBay Marketplace Account Deletion webhook endpoint for Tyasi",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}

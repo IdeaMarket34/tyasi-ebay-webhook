@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/marketplace-deletion.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
