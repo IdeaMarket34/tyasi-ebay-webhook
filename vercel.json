@@ -1,6 +1,3 @@
 {
-  "version": 2,
-  "rewrites": [
-    { "source": "/api/marketplace-deletion", "destination": "/api/marketplace-deletion.js" }
-  ]
+  "version": 2
 }
